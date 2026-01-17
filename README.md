@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 This project analyzes retail transaction data to identify **profit leakage caused by discounting**, **loss-making products**, and **high-value customer segments**.  
 Using SQL for analysis and Power BI for visualization, the project delivers **actionable business insights** focused on pricing strategy, product performance, and market concentration.
+This project simulates a real-world business scenario where leadership needs to understand why revenue growth does not translate into profitability.
 
 ---
 
@@ -34,7 +35,7 @@ Using SQL for analysis and Power BI for visualization, the project delivers **ac
 - Discounts above **30% consistently generate net losses**
 - **296 products** are loss-making overall
 - **Furniture** category shows high sales but weak profitability
-- **Consumer segment** outperforms Corporate and Home Office
+- **Consumer segment** is the most profitable across sales and margin
 - **California and New York** contribute the majority of total profit
 - A small group of loss-making customers offsets profits from top customers
 
@@ -92,6 +93,6 @@ This project demonstrates:
 Designed to reflect **real-world freelance and industry analytics work**.
 
 ## ▶️ How to Use
-1. Open the `.pbix` file in Power BI Desktop
-2. Load the dataset (CSV or database connection)
-3. Use slicers to explore profitability by year, segment, and category
+1. Download the `.pbix` file from the `dashboard/` folder  
+2. Open it using Power BI Desktop  
+3. Use slicers to explore profitability by year, category, and segment  
