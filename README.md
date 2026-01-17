@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 This project analyzes retail transaction data to identify **profit leakage caused by discounting**, **loss-making products**, and **high-value customer segments**.  
 Using SQL for analysis and Power BI for visualization, the project delivers **actionable business insights** focused on pricing strategy, product performance, and market concentration.
+
 This project simulates a real-world business scenario where leadership needs to understand why revenue growth does not translate into profitability.
 
 ---
