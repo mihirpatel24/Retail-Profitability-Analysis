@@ -64,7 +64,15 @@ The Power BI report contains **two focused dashboard pages**:
 - Interactive slicers for year, category, and segment
 
 ---
+## 🖼 Dashboard Preview
 
+### Profit & Discount Analysis
+![Profit & Discount Analysis](preview/Profit & Discount Analysis.png)
+
+### Customer & Market Insights
+![Customer & Market Insights](preview/Customer & Market Insights.png)
+
+---
 ## 📁 Repository Structure
 - `data/` — Raw and cleaned datasets
 - `sql/` — SQL queries and analysis
