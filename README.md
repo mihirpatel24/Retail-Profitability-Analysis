@@ -70,7 +70,7 @@ The Power BI report contains **two focused dashboard pages**:
 ![Profit & Discount Analysis](preview/Profit & Discount Analysis.png)
 
 ### Customer & Market Insights
-![Customer & Market Insights](preview/Customer & Market Insights.png)
+![Customer & Market Insights](preview/customer_and_market_insights.png)
 
 ---
 ## 📁 Repository Structure
