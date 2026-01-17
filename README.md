@@ -67,7 +67,7 @@ The Power BI report contains **two focused dashboard pages**:
 ## 🖼 Dashboard Preview
 
 ### Profit & Discount Analysis
-![Profit & Discount Analysis](preview/Profit & Discount Analysis.png)
+![Profit & Discount Analysis](preview/profit_and_discount_analysis.png)
 
 ### Customer & Market Insights
 ![Customer & Market Insights](preview/customer_and_market_insights.png)
@@ -90,3 +90,8 @@ This project demonstrates:
 - Clear storytelling with actionable insights
 
 Designed to reflect **real-world freelance and industry analytics work**.
+
+## ▶️ How to Use
+1. Open the `.pbix` file in Power BI Desktop
+2. Load the dataset (CSV or database connection)
+3. Use slicers to explore profitability by year, segment, and category
