@@ -66,15 +66,10 @@ The Power BI report contains **two focused dashboard pages**:
 ---
 
 ## 📁 Repository Structure
-Retail-Profitability-Analysis/
-├── dashboard/
-│ ├── Retail_Profitability_Analysis.pbix
-│ └── dashboard_preview.png
-├── sql/
-│ └── superstore_analysis.sql
-├── data/
-│ └── superstore_cleaned.csv (optional)
-└── README.md
+- `data/` — Raw and cleaned datasets
+- `sql/` — SQL queries and analysis
+- `dashboard/` — Power BI dashboard file
+- `preview/` — Project visuals
 
 
 ---
